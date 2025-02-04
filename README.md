@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hliu092
+- 👋 Hi, I’m @Liu Huan
 - 👀 I’m interested in natural sciences
 - 🌱 I’m currently working in Research & Development in natural sciences
 - 💞️ I’m looking to collaborate on research projects
